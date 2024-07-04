@@ -1,1 +1,1 @@
-# Diamond Price Prediction using Various Regression Algorithms
+# Diamond Price Prediction using Different Regression Algorithms
