@@ -1,6 +1,6 @@
 # Diamond Price Prediction
 
-This project aims to predict diamond prices using various regression algorithms. It involves data preprocessing, feature engineering, and applying different regression models to find the best predictor.
+This Project aims to Predict Diamond Prices using various regression algorithms. It involves data preprocessing, feature engineering, and applying different regression models to find the best predictor.
 
 ## Table of Contents
 - [Introduction](#introduction)
